@@ -1,0 +1,6 @@
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("mehedi hasan");
+        System.out.print ("bsc computer engineering student");
+    }
+}
